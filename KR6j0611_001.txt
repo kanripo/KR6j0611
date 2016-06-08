@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:16.262271
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:37
 #+TITLE: 佛說大愛陀羅尼經
 #+PROPERTY: CBETA_ID T21n1379
 #+PROPERTY: ID KR6j0611
